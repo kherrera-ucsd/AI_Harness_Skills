@@ -1,0 +1,3 @@
+interface:
+  display_name: "UCSD Holiday Calendars"
+  short_description: "Share importable UCSD holiday and curtailment calendar files"
